@@ -11,7 +11,7 @@ In this bootcamp project, I learned to refactor the classes and ID's of this web
 
 The original (base) HTML and CSS were given to me by my instructors in the Georgia Tech Full-Stack Bootcamp. My contribution was in refactoring, reordering elements, and adding accessibility features.
 
-![Deployed Website Screenshot](https://imgur.com/MXLH9PT)
+[Imgur](https://i.imgur.com/MXLH9PT.png)
 
 ## License
 None
